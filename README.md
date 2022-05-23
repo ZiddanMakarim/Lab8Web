@@ -52,7 +52,7 @@ Buat file baru bernama koneksi.php
 ![koneksi](img/7.png)
 Jika seperti artinya koneksi berhasil
 ### Contoh Coding
-```mysql
+```php
 <?php
 $host = "localhost";
 $user = "root";
