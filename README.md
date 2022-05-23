@@ -22,7 +22,7 @@ CREATE DATABASE latihan1;
 ```
 
 ## 3). Membuat Tabel
-```
+```mysql
 CREATE TABLE data_barang (
 id_barang int(10) auto_increment Primary Key,
 kategori varchar(30),
@@ -52,7 +52,7 @@ Buat file baru bernama koneksi.php
 ![koneksi](img/7.png)
 Jika seperti artinya koneksi berhasil
 ### Contoh Coding
-```MySQL
+```mysql
 <?php
 $host = "localhost";
 $user = "root";
